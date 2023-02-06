@@ -14,3 +14,7 @@ https://stackoverflow.com/questions/48151128/difference-between-production-and-d
 
 https://www.geeksforgeeks.org/how-react-and-reactdom-works/
 
+https://www.geeksforgeeks.org/difference-between-innertext-and-innerhtml/
+
+https://careerkarma.com/blog/javascript-queryselector-vs-getelementbyid/
+
