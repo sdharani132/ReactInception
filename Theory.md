@@ -18,3 +18,5 @@ https://www.geeksforgeeks.org/difference-between-innertext-and-innerhtml/
 
 https://careerkarma.com/blog/javascript-queryselector-vs-getelementbyid/
 
+React is total library which contains code for all web, mobiles, 3d, etc.
+ReactDOM is wrt to DOM of browser. So, they split it into two.
